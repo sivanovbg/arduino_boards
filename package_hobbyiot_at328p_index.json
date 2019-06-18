@@ -1,0 +1,36 @@
+{
+  "packages": [
+    {
+      "name": "hobbyiot",
+      "maintainer": "HobbyIoT",
+      "websiteURL": "https://sites.google.com/view/hobbyiot",
+      "email": "",
+      "help": {
+        "online": "https://sites.google.com/view/hobbyiot"
+      },
+      "platforms": [
+        {
+          "name": "HobbyIoT Boards",
+          "architecture": "avr",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://sites.google.com/view/hobbyiot"
+          },
+          "url": "https://sites.google.com/view/hobbyiot/hobbyiot/arduino-ide-boards/downloads/package_hobbyiot_at328p.zip",
+          "archiveFileName": "package_hobbyiot_at328p.zip",
+          "checksum": "SHA-1:555555555555555555555555555555555",
+          "size": "5555",
+          "boards": [
+            {"name": "ATmega328p"},
+            {"name": "ATmega328p"},
+            {"name": "ATmega328p"},
+            {"name": "ATmega328p"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
