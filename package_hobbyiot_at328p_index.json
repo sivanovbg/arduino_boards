@@ -23,9 +23,7 @@
           "size": "2739",
           "boards": [
             {"name": "THR-V1"},
-            {"name": "ATtiny45"},
-            {"name": "ATtiny25"},
-            {"name": "Other 8-pin ATtiny"}
+            {"name": "Other THR Boards"}
           ],
           "toolsDependencies": []
         }
