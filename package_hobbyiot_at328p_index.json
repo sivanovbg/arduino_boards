@@ -1,36 +1,36 @@
 {
-  "packages": [
-    {
-      "name": "hobbyiot",
-      "maintainer": "HobbyIoT",
-      "websiteURL": "https://sites.google.com/view/hobbyiot",
-      "email": "",
-      "help": {
-        "online": "https://sites.google.com/view/hobbyiot"
-      },
-      "platforms": [
-        {
-          "name": "HobbyIoT Boards",
-          "architecture": "avr",
-          "version": "0.1.0",
-          "category": "Contributed",
-          "help": {
-            "online": "https://sites.google.com/view/hobbyiot"
-          },
-          "url": "https://sites.google.com/view/hobbyiot/hobbyiot/arduino-ide-boards/downloads/package_hobbyiot_at328p.zip",
-          "archiveFileName": "package_hobbyiot_at328p.zip",
-          "checksum": "SHA-256:8e157cfdd5dc2ce3dfc04abbbc58a68b69d96d47201485e27b4646f19eaf1193",
-          "size": "5555",
-          "boards": [
-            {"name": "ATmega328p"},
-            {"name": "ATmega328p"},
-            {"name": "ATmega328p"},
-            {"name": "ATmega328p"}
-          ],
-          "toolsDependencies": []
-        }
-      ],
-      "tools": []
-    }
-  ]
+   "packages":[
+      {
+         "name": "HobbyIoT",
+         "maintainer": "Simeon Ivanov",		  
+         "websiteURL": "",
+         "email": "",
+		 "help": {
+        	"online": ""
+	   },
+     	"platforms":
+		[
+			 {
+	           "name": "HobbyIoT Boards",
+	           "architecture": "avr",
+	           "version": "1.0.0",
+	           "category": "Contributed",
+	           "url": "https://github.com/amoehl/uino-atmega328pb/raw/master/uino_m328pb_pack_1.0.0.zip",
+			   "checksum": "SHA-256:8e157cfdd5dc2ce3dfc04abbbc58a68b69d96d47201485e27b4646f19eaf1193",
+	           "archiveFileName": "uino_m328pb_pack_1.0.0.zip",
+	           "size": "101006", 
+	           "boards":
+				[
+	        { "name": "THR-V1" }
+	           	],
+	           "toolsDependencies":
+				[				
+				]
+	        }
+	     ],      	
+		 "tools":
+		  [		
+		  ]
+		}
+	]  
 }
