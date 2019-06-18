@@ -22,7 +22,7 @@
           "checksum": "SHA-1:4cad028d11e3a83833fc8071be9a36c65d992879",
           "size": "2739",
           "boards": [
-            {"name": "THR-V1"},
+            {"name": "THR-V1"}
           ],
           "toolsDependencies": []
         }
