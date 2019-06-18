@@ -1,21 +1,21 @@
 {
   "packages": [
     {
-      "name": "HobbyIoT",
-      "maintainer": "The HobbyIoT Project",
-      "websiteURL": "",
+      "name": "tinusaur",
+      "maintainer": "The Tinusaur Project",
+      "websiteURL": "http://tinusaur.org",
       "email": "",
       "help": {
-        "online": ""
+        "online": "http://tinusaur.org"
       },
       "platforms": [
         {
-          "name": "HobbyIoT Boards",
+          "name": "Tinusaur Boards",
           "architecture": "avr",
           "version": "0.9.16",
           "category": "Contributed",
           "help": {
-            "online": ""
+            "online": "https://tinusaur.org/arduino-ide-setup/"
           },
           "url": "https://bitbucket.org/tinusaur/arduino-ide-boards/downloads/package_tinusaur_attiny.zip",
           "archiveFileName": "package_tinusaur_attiny.zip",
