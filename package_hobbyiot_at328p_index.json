@@ -19,7 +19,7 @@
           },
           "url": "https://sites.google.com/view/hobbyiot/hobbyiot/arduino-ide-boards/downloads/package_hobbyiot_at328p.zip",
           "archiveFileName": "package_hobbyiot_at328p.zip",
-          "checksum": "SHA-1:555555555555555555555555555555555",
+          "checksum": "SHA-256:8e157cfdd5dc2ce3dfc04abbbc58a68b69d96d47201485e27b4646f19eaf1193",
           "size": "5555",
           "boards": [
             {"name": "ATmega328p"},
