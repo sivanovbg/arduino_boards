@@ -3,10 +3,10 @@
     {
       "name": "HobbyIoT",
       "maintainer": "The HobbyIoT Project",
-      "websiteURL": "http://tinusaur.org",
+      "websiteURL": "https://sites.google.com/view/hobbyiot",
       "email": "",
       "help": {
-        "online": "http://tinusaur.org"
+        "online": "https://sites.google.com/view/hobbyiot"
       },
       "platforms": [
         {
@@ -15,7 +15,7 @@
           "version": "0.1.0",
           "category": "Contributed",
           "help": {
-            "online": "https://tinusaur.org/arduino-ide-setup/"
+            "online": "https://sites.google.com/view/hobbyiot"
           },
           "url": "https://bitbucket.org/tinusaur/arduino-ide-boards/downloads/package_tinusaur_attiny.zip",
           "archiveFileName": "package_tinusaur_attiny.zip",
