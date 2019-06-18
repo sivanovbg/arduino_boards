@@ -1,37 +1,36 @@
 {
-   "packages":[
-      {
-         "name": "Atmega328PB",
-         "maintainer": "Andre Moehl",		  
-         "websiteURL": "",
-         "email": "arduino@ib-moehl.de",
-		 "help": {
-        	"online": ""
-	   },
-     	"platforms":
-		[
-			 {
-	           "name": "Atmega328PB",
-	           "architecture": "avr",
-	           "version": "1.0.0",
-	           "category": "Atmega328PB",
-	           "url": "https://github.com/amoehl/uino-atmega328pb/raw/master/uino_m328pb_pack_1.0.0.zip",
-			   "checksum": "SHA-256:8e157cfdd5dc2ce3dfc04abbbc58a68b69d96d47201485e27b4646f19eaf1193",
-	           "archiveFileName": "uino_m328pb_pack_1.0.0.zip",
-	           "size": "101006", 
-	           "boards":
-				[
-	              { "name": "Super Mini" },
-				  { "name": "Superstick" }
-	           	],
-	           "toolsDependencies":
-				[				
-				]
-	        }
-	     ],      	
-		 "tools":
-		  [		
-		  ]
-		}
-	]  
+  "packages": [
+    {
+      "name": "tinusaur",
+      "maintainer": "The Tinusaur Project",
+      "websiteURL": "http://tinusaur.org",
+      "email": "",
+      "help": {
+        "online": "http://tinusaur.org"
+      },
+      "platforms": [
+        {
+          "name": "Tinusaur Boards",
+          "architecture": "avr",
+          "version": "0.9.16",
+          "category": "Contributed",
+          "help": {
+            "online": "https://tinusaur.org/arduino-ide-setup/"
+          },
+          "url": "https://bitbucket.org/tinusaur/arduino-ide-boards/downloads/package_tinusaur_attiny.zip",
+          "archiveFileName": "package_tinusaur_attiny.zip",
+          "checksum": "SHA-1:4cad028d11e3a83833fc8071be9a36c65d992879",
+          "size": "2739",
+          "boards": [
+            {"name": "ATtiny85"},
+            {"name": "ATtiny45"},
+            {"name": "ATtiny25"},
+            {"name": "Other 8-pin ATtiny"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
 }
