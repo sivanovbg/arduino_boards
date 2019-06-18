@@ -1,8 +1,8 @@
 {
   "packages": [
     {
-      "name": "tinusaur",
-      "maintainer": "The Tinusaur Project",
+      "name": "HobbyIoT",
+      "maintainer": "The HobbyIoT Project",
       "websiteURL": "http://tinusaur.org",
       "email": "",
       "help": {
@@ -10,7 +10,7 @@
       },
       "platforms": [
         {
-          "name": "Tinusaur Boards",
+          "name": "HobbyIoT Boards",
           "architecture": "avr",
           "version": "0.9.16",
           "category": "Contributed",
