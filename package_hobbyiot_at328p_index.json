@@ -2,26 +2,27 @@
    "packages":[
       {
          "name": "HobbyIoT",
-         "maintainer": "Simeon Ivanov",		  
+         "maintainer": "Andre Moehl",		  
          "websiteURL": "",
-         "email": "",
+         "email": "arduino@ib-moehl.de",
 		 "help": {
         	"online": ""
 	   },
      	"platforms":
 		[
 			 {
-	           "name": "HobbyIoT Boards",
+	           "name": "Atmega328PB",
 	           "architecture": "avr",
 	           "version": "1.0.0",
-	           "category": "Contributed",
+	           "category": "Atmega328PB",
 	           "url": "https://github.com/amoehl/uino-atmega328pb/raw/master/uino_m328pb_pack_1.0.0.zip",
 			   "checksum": "SHA-256:8e157cfdd5dc2ce3dfc04abbbc58a68b69d96d47201485e27b4646f19eaf1193",
 	           "archiveFileName": "uino_m328pb_pack_1.0.0.zip",
 	           "size": "101006", 
 	           "boards":
 				[
-	        { "name": "THR-V1" }
+	              { "name": "Super Mini" },
+				  { "name": "Superstick" }
 	           	],
 	           "toolsDependencies":
 				[				
