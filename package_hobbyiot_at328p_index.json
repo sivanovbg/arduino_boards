@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/sivanovbg/arduino_boards/blob/master/package_hobbyiot_at328p.zip",
           "archiveFileName": "package_hobbyiot_at328p.zip",
-          "checksum": "SHA-1:4cad028d11e3a83833fc8071be9a36c65d992879",
-          "size": "2739",
+          "checksum": "SHA-1:7C5A419A27141E85E2A3F28BACD13C839F939CEB",
+          "size": "5312",
           "boards": [
             {"name": "THR-V2"},
             {"name": "Other THR Boards"}
