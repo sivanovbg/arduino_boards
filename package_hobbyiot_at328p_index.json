@@ -17,8 +17,8 @@
           "help": {
             "online": "https://sites.google.com/view/hobbyiot"
           },
-          "url": "https://bitbucket.org/tinusaur/arduino-ide-boards/downloads/package_tinusaur_attiny.zip",
-          "archiveFileName": "package_tinusaur_attiny.zip",
+          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/package_hobbyiot_at328p.zip",
+          "archiveFileName": "package_hobbyiot_at328p.zip",
           "checksum": "SHA-1:4cad028d11e3a83833fc8071be9a36c65d992879",
           "size": "2739",
           "boards": [
