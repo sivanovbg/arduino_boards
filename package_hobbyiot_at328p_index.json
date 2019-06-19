@@ -17,7 +17,7 @@
           "help": {
             "online": "https://sites.google.com/view/hobbyiot"
           },
-          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/package_hobbyiot_at328p.zip",
+          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/package_hobbyiot_at328p.zip?raw=true",
           "archiveFileName": "package_hobbyiot_at328p.zip",
           "checksum": "SHA-256:3BEC25FFDBB0208CE40F5B7C4FC1CC870E5F962A48D46116C529B970AE8495C1",
           "size": "5312",
