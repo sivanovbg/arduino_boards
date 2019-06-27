@@ -1,0 +1,34 @@
+{
+  "packages": [
+    {
+      "name": "HobbyIoT",
+      "maintainer": "The HobbyIoT Project",
+      "websiteURL": "https://sites.google.com/view/hobbyiot",
+      "email": "",
+      "help": {
+        "online": "https://sites.google.com/view/hobbyiot"
+      },
+      "platforms": [
+        {
+          "name": "HobbyIoT Boards",
+          "architecture": "avr",
+          "version": "0.1.0",
+          "category": "Contributed",
+          "help": {
+            "online": "https://sites.google.com/view/hobbyiot"
+          },
+          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/package_hobbyiot_at328p.zip?raw=true",
+          "archiveFileName": "package_hobbyiot_at328p.zip",
+          "checksum": "SHA-256:d6cff21b24f0f33ba3a984d4e73ec5b2df8b2633db71d3f58597d3afc8a14161",
+          "size": "5647",
+          "boards": [
+            {"name": "THR-V2"},
+            {"name": "Other THR Boards"}
+          ],
+          "toolsDependencies": []
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
