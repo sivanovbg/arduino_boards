@@ -12,6 +12,7 @@
         {
           "name": "HobbyIoT Boards",
           "architecture": "avr",
+          "version": "0.1.0",
           "category": "Contributed",
           "help": {
             "online": "https://www.hobbyiot.net/"
