@@ -17,10 +17,10 @@
           "help": {
             "online": "https://www.hobbyiot.net/"
           },
-          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/package_hobbyiot_at328p.zip?raw=true",
+          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/HobbyIoT-master.zip?raw=true",
           "archiveFileName": "package_hobbyiot_at328p.zip",
-          "checksum": "SHA-256:294336ea8cab8545881d59d0c7eca715439425acd9da3f919ceec9c2edc55bfc",
-          "size": "124983",
+          "checksum": "SHA-256:DAE800E20C08C7AC80A614CA81E54E4F17D26E0FE6C6BC61E4F85427DC0264D2",
+          "size": "117538",
           "boards": [
             {"name": "THR-V2"},
             {"name": "Other THR Boards"}
