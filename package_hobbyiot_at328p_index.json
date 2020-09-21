@@ -18,7 +18,7 @@
             "online": "https://www.hobbyiot.net/"
           },
           "url": "https://github.com/sivanovbg/arduino_boards/blob/master/HobbyIoT-master.zip?raw=true",
-          "archiveFileName": "package_hobbyiot_at328p.zip",
+          "archiveFileName": "HobbyIoT-master.zip",
           "checksum": "SHA-256:92F6F4F15C4FC33E94CF96EA8F0502DCAD423256067C1DB8A86ABCA754FE093D",
           "size": "93238",
           "boards": [
