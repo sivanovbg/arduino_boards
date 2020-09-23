@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/sivanovbg/arduino_boards/blob/master/HobbyIoT-master.zip?raw=true",
           "archiveFileName": "HobbyIoT-master.zip",
-          "checksum": "SHA-256:21AD8BD047DA6E586E3581A24E2856A5BA635D984E75D2AD7B008C43F9FDFA8E",
-          "size": "93627",
+          "checksum": "SHA-256:bc62134c23a90b50a627515f019a6fd5a2d8e973bdad116fe697a6e7bf7b3da8",
+          "size": "92487",
           "boards": [
             {"name": "THR-V2"},
             {"name": "Other THR Boards"}
