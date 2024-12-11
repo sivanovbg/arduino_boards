@@ -1,0 +1,40 @@
+{
+  "packages":
+  [
+    {
+      "name": "HobbyIoT",
+      "maintainer": "HobbyIoT",
+      "websiteURL": "https://www.hobbyiot.net",
+      "email" : "support@hobbyiot.net",
+      "platforms":
+      [
+        {
+          "name": "HobbyIoT Boards",
+          "architecture": "esp32",
+          "version": "1.2",
+          "category": "Contributed",
+          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/H2S-Dev-Basic.zip",
+          "archiveFileName": "H2S-Dev-Basic.zip",
+          "checksum": "SHA-256:3d1deb2b295d462f1407624f0976b97502fbcadcc9035998df07a9e4459ecbea",
+          "size": "5938",
+          "boards": [
+            {
+              "name": "H2S-Dev Basic"
+            }
+          ],
+          "toolsDependencies":
+          [
+            {
+              "packager": "esp32",
+              "name": "esp32-arduino-libs",
+              "version": "idf-release_v5.1-632e0c2a"
+            }
+          ]
+        }
+      ],
+      "tools":
+      [
+      ]
+    }
+  ]
+}
