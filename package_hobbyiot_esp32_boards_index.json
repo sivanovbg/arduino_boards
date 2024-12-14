@@ -13,9 +13,9 @@
           "architecture": "esp32",
           "version": "0.1",
           "category": "Contributed",
-          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/H2S-Dev-Basic.zip?raw=true",
-          "archiveFileName": "H2S-Dev-Basic.zip",
-          "checksum": "SHA-256:3d1deb2b295d462f1407624f0976b97502fbcadcc9035998df07a9e4459ecbea",
+          "url": "https://github.com/sivanovbg/arduino_boards/blob/master/H2S-Dev-master.zip?raw=true",
+          "archiveFileName": "H2S-Dev-master.zip",
+          "checksum": "SHA-256:7fbd8c89f1c199f4888dabf592d90912308968f9f058189d49e331862e087288",
           "size": "5938",
           "boards": [
             {
