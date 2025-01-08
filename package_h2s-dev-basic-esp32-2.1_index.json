@@ -16,7 +16,7 @@
           "url": "https://github.com/sivanovbg/arduino_boards/raw/refs/heads/master/h2s-dev-basic-esp32-2.1.zip",
           "archiveFileName": "h2s-dev-basic-esp32-2.1.zip",
           "checksum": "SHA-256:b46ad4bec36de74218e5055fa1ab767a9adcead048cdabc81d8c254d93eedbd2",
-          "size": "19868090",
+          "size": "19868095",
           "boards": [
             {
               "name": "H2S-Dev Basic"
